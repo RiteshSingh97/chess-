@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <style> 
+    .black{
+        background-color:black;
+       width:87px;
+       height:87px;
+       
+
+    
+     }
+
+    .w{
+        background-color:white;
+        width:87px;
+        height:87px;
+    
+    }
+    #name{
+margin: 0px;
+border: 2px solid black;
+height:700px;
+width:700px;
+font-size: 50px;
+text-align: center;
+text-shadow: 1px 2px white;
+
+    }
+    
+    </style>
+    <title>chess </title>
+</head>
+<body>
+<table id="name" >
+
+    <tr>
+        <th class="w"> &#9814;</th>
+        <th class="black" > &#9816;</th>
+        <th class="w"> &#9815;</th>
+        <th class="black"> &#9813;</th>
+        <th class="w"> &#9812; </th>
+        <th class="black">  &#9815;</th>
+        <th class="w"> &#9816;</th>
+        <th  class="black"> &#9814;</th>
+    </tr>
+    <tr>
+        <td class="black "> &#9817;</td>
+        <td class="w"> &#9817;</td>
+        <td class="black" > &#9817;</td>
+        <td class="w"> &#9817;</td>
+        <td class="black" > &#9817;</td>
+        <td class="w"> &#9817;</td>
+        <td class="black" ></td>
+        <td class="w">&#9817;</td>
+    </tr>
+    
+    <tr>
+        <td class="w"></td>
+        <td class="black" ></td>
+        <td class="w"></td>
+        <td class="black" ></td>
+        <td class="w"></td>
+        <td class="black" ></td>
+        <td class="w">&#9817;</td>5fyg
+        <td class="black" ></td>
+            </tr>
+            <tr>
+                <td class="black" ></td>
+        <td class="w"></td>
+        <td class="black" ></td>
+        <td class="w"></td>
+        <td class="black" ></td>
+        <td class="w"></td>
+        <td class="black" ></td>
+        <td class="w"></td>
+            </tr>
+            <tr>
+                <
+                <td class="w"></td>
+                <td class="black" ></td>
+                <td class="w"></td>
+                <td class="black" ></td>
+                <td class="w"></td>
+                <td class="black" ></td>
+                <td class="w">&#9823;</td>
+                <td class="black" ></td>
+                    </tr>
+                    <tr>
+                        <td class="black" ></td>
+        <td class="w"></td>
+        <td class="black" ></td>
+        <td class="w"></td>
+        <td class="black" ></td>
+        <td class="w"></td>
+        <td class="black" ></td>
+        <td class="w"></td>
+                            </tr>
+                            <tr>
+                                
+        <td class="w">&#9823;</td>
+        <td class="black" >&#9823;</td>
+        <td class="w">&#9823;</td>
+        <td class="black" >&#9823;</td>
+        <td class="w">&#9823;</td>
+        <td class="black" >&#9823;</td>
+        <td class="w"></td>
+        <td class="black" >&#9823;</td>
+        
+                                    </tr>
+                                    <tr>
+                                        <td class="black" >&#9820;</td>
+                                        <td class="w">&#9822;</td>
+                                        <td class="black" >&#9821;</td>
+                                        <td class="w">&#9819;</td>
+                                        <td class="black" > &#9818;</td>
+                                        <td class="w">&#9821;</td>
+                                        <td class="black" >&#9822;</td>
+                                        <td class="w">&#9820;</td>
+                                            </tr>
+</table>
+</body>
+</html>
